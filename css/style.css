@@ -1,0 +1,16 @@
+  .column {
+        width: 300px;
+        float: left;
+        
+      }
+
+   .img{
+
+    float:inline-end; 	
+   }
+
+   .sidebar{
+   	float:left;
+   	background-color:yellow;
+   	width:100px;
+   }
